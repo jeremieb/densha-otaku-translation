@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  Densha Otaku
+
+  Created by Jérémie Berduck on 1/9/22.
+  
+*/
+
+//MARK: GENERIC
+"close" = "Close";
+
+//MARK: LIST
+"list_view_title" = "Book keeping";
+"list_segmented_speed" = "by Speed";
+"list_segmented_date" = "by Date";
+
+"record_note_label" = "Edit to add a note";
+
+//MARK: ONBOARDING
+"onboarding_content_one" = "In order to track your speed, this app needs to access to the phone location.";
+"onboarding_content_two" = "We value your privacy. \nThis app does not record any of your usage or send any data to anywhere.";
+"onboarding_button" = "Allow location";
+"onboarding_continue" = "Continue";
+
+//MARK: MAIN VIEW
+"compass_degrees" = "degrees";
+
+//MARK: SUBS
+"sub_title" = "Otaku Ultra";
+"sub_subtitle" = "More speed records and bonuses";
+"sub_content" = "In addition to indie development, your support is a important for the future development of Densha Otaku.";
+"sub_monthly" = "Monthly";
+"sub_yearly" = "Yearly";
+"sub_restore" = "Restore subscription";
+"sub_manage" = "Manage my subscription";
+
+//MARK:  MENU
+"menu_title" = "Menu";
+
+"menu_section_settings" = "Settings";
+"menu_show_train_line" = "Hide train lines";
+"menu_true_north" = "True North";
+"menu_imperial" = "Imperial Units";
+"menu_metric" = "Metric Units";
+"menu_haptic" = "No Haptic";
+"menu_language" = "Language - ";
+"menu_en" = "English";
+"menu_fr" = "French";
+"menu_jp" = "Japanese";
+
+"menu_section_rate" = "Spread the love";
+"menu_rate" = "Give it 5 stars!";
+
+"menu_help_section" = "Need help?";
+"menu_help_label" = "Help";
+"menu_suggestion_label" = "Make a suggestion";
+
+"menu_translations" = "Translation help";
+"menu_translations_content" = "If you have any feedback about a wrong translation to help improve the *Densha Otaku* experience or if you want to enjoy this app in your language, [tap here to contribute!](https://www.mapbox.com/map-feedback)"; //TODO: ⚠️ Wrong link
+
+"menu_show_onboarding" = "Show onboarding";
+
+"menu_footer_first" = "Made with";
+"menu_footer_second" = "in";
+"menu_footer_third" = "Amsterdam";
+
+"menu_apps_title" = "By the same developer";
+
+"menu_section_others" = "Others";
+"menu_about" = "About Densha Otaku";
+"menu_about_content" = "Say something about this app...";
+
+"menu_developer" = "The Developer";
+"menu_developer_content" = "👋 Hi, I’m Jeremie Berduck. \n\n
+I do mobile product design by day and by night, I do coding, streaming and podcasting, everything from Amsterdam in the Netherlands, where I’m living with my family. \n\n
+You can follow must of the development live on my [Twitch channel](https://twitch.tv/monsieurbee). You can also reach me [on Twitter](https://twitter.com/jeremieberduck), I’d love to hear about your experience with *Densha Otaku*. \n\n
+If you like the app, support indie development and please tell a friend or leave a review on the store!";
+
+"menu_copyright" = "Attributions";
+"menu_copyright_content" = "• Map provided by [© Mapbox](https://www.mapbox.com/about/maps/) and [© OpenStreetMap](http://www.openstreetmap.org/copyright). \n
+• [Improve this map](https://www.mapbox.com/map-feedback/). \n
+• Original picture by [Tele52](https://twitter.com/vector_icons).";
+
+// MARK: STATUS AND MESSAGES
+"gps_signal" = "not enough signal";
+"localization_restricted" = "Location use is restricted.";
+"localization_unknown" = "This app requires phone's location to work properly. \nTap here to access your settings.";
+"unexpected_error" = "Unexpected error";
+"slow_speed" = "You're not going fast enough.";
+
+"no_record" = "You don’t have any record yet. \nGo back to the main screen and just tap on the speed indicator for adding one.";
+"speed_record_limitation" = "You cannot add more than 10 records";
