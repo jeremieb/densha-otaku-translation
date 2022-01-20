@@ -90,3 +90,11 @@ If you like the app, support indie development and please tell a friend or leave
 
 "no_record" = "You don’t have any record yet. \nGo back to the main screen and just tap on the speed indicator for adding one.";
 "speed_record_limitation" = "You cannot add more than 10 records";
+
+
+
+// =========================================================================
+// MARK: INFO.PLIST
+
+"NSLocationUsageDescription" = "Turn on location service for the app to provide your moving speed.";
+"NSLocationWhenInUseUsageDescription" = "Turn on location service for the app to provide your moving speed.";

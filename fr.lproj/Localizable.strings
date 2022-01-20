@@ -88,3 +88,10 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 "no_record" = "Aucun enregistrement. \nRetournez sur l'écran principale et tappez sur l'indicateur de vitesse pour enregistrer votre vitesse.";
 "speed_record_limitation" = "Vous ne pouvez pas ajouter plus de 10 enregistrements";
+
+
+// =========================================================================
+// MARK: INFO.PLIST
+
+"NSLocationUsageDescription" = "Activez votre position pour connaitre votre vitesse de déplacement.";
+"NSLocationWhenInUseUsageDescription" = "Activez votre position pour connaitre votre vitesse de déplacement.";
