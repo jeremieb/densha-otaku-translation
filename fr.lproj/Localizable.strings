@@ -116,11 +116,29 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 "Monthly" = "Mensuel";
 "Monthly - Subscription Display Name" = "Ultra Otaku Mensuel";
-"Monthly - Description" = "Densha Otaku dans son complet potentiel";
+"Monthly - Description" = "Densha Otaku avec tout son potentiel";
 
 "Yearly" = "Yearly";
 "Yearly - Subscription Display Name" = "Ultra Otaku Annuel";
-"Yearly - Description" = "Densha Otaku dans son complet potentiel";
+"Yearly - Description" = "Densha Otaku avec tout son potentiel";
 
 // =========================================================================
 // MARK: APPSTORE Product Page
+
+"Promotional" = "Suivez la vitesse de votre voyage en train avec Densha Otaku!";
+
+"Description" = "
+
+Densha Otaku est un compteur de vitesse pour tous les fanatics de trains.
+
+• Suivez votre voyage sur une carte magnifique avec mise en avant des lignes de trains
+• Gardez les vitesses les plus hautes
+
+Fonctionnalités
+• Unités: kmh / mph
+• Mode boussole
+• Carte personalisée adaptée à la vision des lignes de train
+
+";
+
+"Tags" = "train,densha,otaku,train geek,compteur vitesse,vitesse,boussole,tracker vitesse,vitesse train";

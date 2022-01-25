@@ -129,3 +129,20 @@ If you like the app, support indie development and please tell a friend or leave
 
 // =========================================================================
 // MARK: APPSTORE Product Page
+
+"Promotional" = "Densha Otaku follows your journey on a beautifully crafted map highlighting train lines.";
+
+"Description" = "
+
+Densha Otaku is a speedometer app for all train fanatics.
+• Follow your journey on a beautifully crafted map highlighting  train lines.
+• Keep track of your higher speed with location.
+
+=== Features ===
+• Units: mph / kmh
+• Compass mode
+• Customized map for a better train lines visibility
+
+";
+
+"Tags" = "train,densha,otaku,train geek,peedometer,speed,compass,speed tracker,speed record,train speed";
