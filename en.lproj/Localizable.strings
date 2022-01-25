@@ -14,7 +14,7 @@
 "list_segmented_speed" = "by Speed";
 "list_segmented_date" = "by Date";
 
-"record_note_label" = "Edit to add a note";
+"record_note_label" = "Edit to add a note"; /// UNUSED
 
 //MARK: ONBOARDING
 "onboarding_content_one" = "In order to track your speed, this app needs to access to the phone location.";
@@ -27,12 +27,18 @@
 
 //MARK: SUBS
 "sub_title" = "Otaku Ultra";
-"sub_subtitle" = "More speed records and bonuses";
+"sub_subtitle" = "• Keep your speed records";
+"sub_subtitle_subscriber" = "Thanks for your support, you're awesome!";
 "sub_content" = "In addition to indie development, your support is a important for the future development of Densha Otaku.";
 "sub_monthly" = "Monthly";
 "sub_yearly" = "Yearly";
 "sub_restore" = "Restore subscription";
 "sub_manage" = "Manage my subscription";
+
+"sub_restore_success" = "Restore Successful";
+"sub_restore_empty" = "No Purchase Found";
+"sub_restore_failed" = "Restore Failed";
+
 
 //MARK:  MENU
 "menu_title" = "Menu";
@@ -55,8 +61,12 @@
 "menu_help_label" = "Help";
 "menu_suggestion_label" = "Make a suggestion";
 
-"menu_translations" = "Translation help";
-"menu_translations_content" = "If you have any feedback about a wrong translation to help improve the *Densha Otaku* experience or if you want to enjoy this app in your language, [tap here to contribute!](https://www.mapbox.com/map-feedback)"; //TODO: ⚠️ Wrong link
+"menu_tcs" = "Terms & Conditions";
+
+"menu_translations" = "Translations";
+"menu_translations_content" = "If you have any feedback about a wrong translation to help improve the *Densha Otaku* experience or if you want to enjoy this app in your language, [tap here to contribute!](https://github.com/jeremieb/densha-otaku-translation)";
+
+"menu_discord" = "Community on Discord";
 
 "menu_show_onboarding" = "Show onboarding";
 
@@ -81,6 +91,10 @@ If you like the app, support indie development and please tell a friend or leave
 • [Improve this map](https://www.mapbox.com/map-feedback/). \n
 • Original picture by [Tele52](https://twitter.com/vector_icons).";
 
+"menu_email_subject" = "Question & Feedback - Densha Otaku!";
+"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Tap your suggestion here</p>
+<p>------------------------------------<br><b>Help: </b><br>Ask your question here</p>";
+
 // MARK: STATUS AND MESSAGES
 "gps_signal" = "not enough signal";
 "localization_restricted" = "Location use is restricted.";
@@ -91,6 +105,7 @@ If you like the app, support indie development and please tell a friend or leave
 "no_record" = "You don’t have any record yet. \nGo back to the main screen and just tap on the speed indicator for adding one.";
 "speed_record_limitation" = "You cannot add more than 10 records";
 
+"speed_record_subs_required" = "Adding a speed record requires a Otaku Ultra subscription available from the main menu.";
 
 
 // =========================================================================
@@ -98,3 +113,19 @@ If you like the app, support indie development and please tell a friend or leave
 
 "NSLocationUsageDescription" = "Turn on location service for the app to provide your moving speed.";
 "NSLocationWhenInUseUsageDescription" = "Turn on location service for the app to provide your moving speed.";
+
+
+// =========================================================================
+// MARK: SUBSCRIPTIONS
+
+"Monthly" = "Monthly";
+"Monthly - Subscription Display Name" = "Ultra Otaku Monthly";
+"Monthly - Description" = "Unlock the full potential of Densha Otaku";
+
+"Yearly" = "Yearly";
+"Yearly - Subscription Display Name" = "Ultra Otaku Yearly";
+"Yearly - Description" = "Unlock the full potential of Densha Otaku";
+
+
+// =========================================================================
+// MARK: APPSTORE Product Page

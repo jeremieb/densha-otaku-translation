@@ -14,7 +14,7 @@
 "list_segmented_speed" = "par Vitesse";
 "list_segmented_date" = "par Date";
 
-"record_note_label" = "Editer pour ajouter une note";
+"record_note_label" = "Editer pour ajouter une note"; /// UNUSED
 
 //MARK: ONBOARDING
 "onboarding_content_one" = "Pour afficher votre vitesse, cette app à besoin d'accéder au signal GPS du téléphone.";
@@ -27,12 +27,17 @@
 
 //MARK: SUBS
 "sub_title" = "Otaku Ultra";
-"sub_subtitle" = "Débloquez l'app et profitez des bonus!";
+"sub_subtitle" = "• Enregistrez les vitesses atteintes.";
+"sub_subtitle_subscriber" = "Merci pour le soutien, vous êtes génial.e!";
 "sub_content" = "Merci d'avance pour votre soutien au développement de cette app.";
 "sub_monthly" = "Mensuel";
 "sub_yearly" = "Annuel";
 "sub_restore" = "Restaurer mon abonnement";
 "sub_manage" = "Gérer mon abonnement";
+
+"sub_restore_success" = "Restauration réussie";
+"sub_restore_empty" = "Aucun achat trouvé";
+"sub_restore_failed" = "La restauration a échoué";
 
 //MARK:  MENU
 "menu_title" = "Menu";
@@ -55,8 +60,12 @@
 "menu_help_label" = "Aide";
 "menu_suggestion_label" = "Faire une suggestion";
 
-"menu_translations" = "Aide à la traduction";
-"menu_translations_content" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de *Densha Otaku* dans votre langue, [vous pouvez contribuer!](https://www.mapbox.com/map-feedback)"; //TODO: ⚠️ Wrong link
+"menu_tcs" = "Conditions d'utilisation";
+
+"menu_translations" = "Traductions";
+"menu_translations_content" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de *Densha Otaku* dans votre langue, [vous pouvez contribuer!](https://github.com/jeremieb/densha-otaku-translation)";
+
+"menu_discord" = "Rejoindre le Discord";
 
 "menu_show_onboarding" = "Revoir l'accueil";
 
@@ -79,7 +88,12 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "menu_copyright" = "Attributions";
 "menu_copyright_content" = "• Map provided by Mapbox \n• Original photo by [George Howden](https://unsplash.com/photos/VhZA7q3Tyck).";
 
+"menu_email_subject" = "Suggestions & Questions - Densha Otaku!";
+"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Écrivez votre idée ici</p>
+<p>------------------------------------<br><b>Help: </b><br>Posez votre question ici</p>";
+
 // MARK: STATUS AND MESSAGES
+
 "gps_signal" = "signal insuffisant";
 "localization_restricted" = "Utilisation de la localisation restrainte.";
 "localization_unknown" = "L'accés à la localisation de votre téléphone est nécessaire. \nTapez ici pour changer vos paramètres.";
@@ -89,9 +103,24 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "no_record" = "Aucun enregistrement. \nRetournez sur l'écran principale et tappez sur l'indicateur de vitesse pour enregistrer votre vitesse.";
 "speed_record_limitation" = "Vous ne pouvez pas ajouter plus de 10 enregistrements";
 
+"speed_record_subs_required" = "Enregistrer votre vitesse nécessite un abonnement Ultra Otaku disponible depuis le menu principal.";
 
 // =========================================================================
 // MARK: INFO.PLIST
 
 "NSLocationUsageDescription" = "Activez votre position pour connaitre votre vitesse de déplacement.";
 "NSLocationWhenInUseUsageDescription" = "Activez votre position pour connaitre votre vitesse de déplacement.";
+
+// =========================================================================
+// MARK: SUBSCRIPTIONS
+
+"Monthly" = "Mensuel";
+"Monthly - Subscription Display Name" = "Ultra Otaku Mensuel";
+"Monthly - Description" = "Densha Otaku dans son complet potentiel";
+
+"Yearly" = "Yearly";
+"Yearly - Subscription Display Name" = "Ultra Otaku Annuel";
+"Yearly - Description" = "Densha Otaku dans son complet potentiel";
+
+// =========================================================================
+// MARK: APPSTORE Product Page
