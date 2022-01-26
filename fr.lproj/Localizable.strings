@@ -60,7 +60,7 @@
 "menu_help_label" = "Aide";
 "menu_suggestion_label" = "Faire une suggestion";
 
-"menu_tcs" = "Conditions d'utilisation";
+"menu_tcs" = "Conditions d'utilisation & Vie privée";
 
 "menu_translations" = "Traductions";
 "menu_translations_content" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de *Densha Otaku* dans votre langue, [vous pouvez contribuer!](https://github.com/jeremieb/densha-otaku-translation)";
