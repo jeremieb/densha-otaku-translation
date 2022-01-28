@@ -57,10 +57,9 @@
 "menu_rate" = "Donnez-lui 5 étoiles!";
 
 "menu_help_section" = "Besoin d'aide ?";
-"menu_help_label" = "Aide";
-"menu_suggestion_label" = "Faire une suggestion";
 
-"menu_tcs" = "Conditions d'utilisation & Vie privée";
+"menu_tcs" = "Conditions d'utilisation";
+"menu_privacy" = "Vie privée";
 
 "menu_translations" = "Traductions";
 "menu_translations_content" = "Si vous avez remarqué des erreurs de traductions ou si vous souhaitez profiter de *Densha Otaku* dans votre langue, [vous pouvez contribuer!](https://github.com/jeremieb/densha-otaku-translation)";
@@ -92,8 +91,8 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Écrivez votre idée ici</p>
 <p>------------------------------------<br><b>Help: </b><br>Posez votre question ici</p>";
 
-// MARK: STATUS AND MESSAGES
 
+// MARK: STATUS AND MESSAGES
 "gps_signal" = "signal insuffisant";
 "localization_restricted" = "Utilisation de la localisation restrainte.";
 "localization_unknown" = "L'accés à la localisation de votre téléphone est nécessaire. \nTapez ici pour changer vos paramètres.";
@@ -104,6 +103,30 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "speed_record_limitation" = "Vous ne pouvez pas ajouter plus de 10 enregistrements";
 
 "speed_record_subs_required" = "Enregistrer votre vitesse nécessite un abonnement Ultra Otaku disponible depuis le menu principal.";
+
+//MARK: PRIVACY
+"privacy_title" = "Vie Privée";
+"privacy_one_subtitle" = "AUCUN • Système de tracking";
+"privacy_one_content" = "*Densha Otaku* n'utilise pas de système de tracking de comportement. Nous ne voulons pas que l'utilisation de notre app soit détournée par de grands groupes pour ficher les comportements de nos utilisateurs et nous ne voulons avoir aucun lien avec ce business douteux.";
+"privacy_two_subtitle" = "AUCUNE • Information privée requise";
+"privacy_two_content" = "*Densha Otaku* ne vous demande aucune information privée. Même notre service de support ne vous demandera aucune information d'ordre privé, comme votre nom par exemple. Nous ne souhaitons pas savoir qui vous êtes, pas parce que vous ne nous intéressez pas, mais parce que protéger vos informations personnelles est une lourde responsabilité que nous ne souhaitons pas porter. \n\nNotre attention porte sur la création de produits qui vous respectent et que vous aimez utiliser…";
+"privacy_three_subtitle" = "AUCUNE • Position n’est enregistrée";
+"privacy_three_content" = "Nous ne sauvegardons AUCUNE activité de nos utilisateurs. Vous êtes complètement anonyme et nous ne nous cachons pas derrière de futures améliorations produit pour collecter votre comportement avec nos produits. \n\nNous ne vendons pas vos données personnelles, tout simplement parce que nous n'avons rien à vendre…\n\nPour être vraiment honnête, nous adorerions avoir de vos nouvelles sur Twitter ou par email, mais ce doit être VOTRE choix. ☺️";
+
+//MARK: Feedback
+"feedback_title" = "Suggestions & Questions";
+"feedback_summary_header" = "En Résumé...";
+"feedback_summary_placeholder" = "Titre";
+"feedback_issue" = "Problème";
+"feedback_request" = "Suggestion";
+"feedback_email_header" = "Restons en contact (optionnel)";
+"feedback_email_placeholder" = "moi@email.com";
+"feedback_description_header" = "Description";
+"feedback_description_placeholder" = "Décrivez votre problème ou votre suggestion.";
+"feedback_button" = "Envoyer";
+"feedback_sent" = "Merci pour votre message";
+"feedback_error" = "Envoie impossible, désolé...";
+
 
 // =========================================================================
 // MARK: INFO.PLIST
@@ -131,7 +154,8 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 Densha Otaku est un compteur de vitesse pour tous les fanatics de trains.
 
-• Suivez votre voyage sur une carte magnifique avec mise en avant des lignes de trains
+• Suivez votre voyage sur une carte magnifique avec mise en avant des lignes de train
+• La boussole indique dans quelle direction vous allez
 • Gardez les vitesses les plus hautes
 
 Fonctionnalités
