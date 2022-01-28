@@ -1,0 +1,149 @@
+/* 
+  Localizable.strings
+  Densha Otaku
+
+  Created by Dev Doshi on 1/25/22.
+  
+*/
+
+//MARK: GENERIC
+"close" = "Schließen";
+
+//MARK: LIST
+"list_view_title" = "Book keeping";
+"list_segmented_speed" = "nach Geschwindigkeit";
+"list_segmented_date" = "nach Datum";
+
+"record_note_label" = "Edit to add a note"; /// UNUSED
+
+//MARK: ONBOARDING
+"onboarding_content_one" = "Um Ihre Geschwindigkeit zu messen, muss diese App auf ihren Standort zugreifen.";
+"onboarding_content_two" = "Wir schätzen ihre Privatsphäre. \nDiese App zeichnet keine ihrer Nutzungsdaten auf und sendet keine Daten irgendwo hin.";
+"onboarding_button" = "Standort erlauben";
+"onboarding_continue" = "Fortsetzen";
+
+//MARK: MAIN VIEW
+"compass_degrees" = "Grad";
+
+//MARK: SUBS
+"sub_title" = "Otaku Ultra";
+"sub_subtitle" = "• Halten Sie Ihre Geschwindigkeitsrekorde fest";
+"sub_subtitle_subscriber" = "Danke für deine Unterstützung, du bist großartig!";
+"sub_content" = "Neben der Indie-Entwicklung ist Ihre Unterstützung wichtig für die zukünftige Entwicklung von Densha Otaku.";
+"sub_monthly" = "Monatlich";
+"sub_yearly" = "Jährlich";
+"sub_restore" = "Abonnement wiederherstellen";
+"sub_manage" = "Mein Abonnement verwalten";
+
+"sub_restore_success" = "Wiederherstellung erfolgreich";
+"sub_restore_empty" = "Kein Kauf gefunden";
+"sub_restore_failed" = "Wiederherstellung Fehlgeschlagen";
+
+
+//MARK:  MENU
+"menu_title" = "Menü";
+
+"menu_section_settings" = "Einstellungen";
+"menu_show_train_line" = "Zuglinien ausblenden";
+"menu_true_north" = "Wahrer Norden";
+"menu_imperial" = "Imperiale Einheiten";
+"menu_metric" = "Metrische Einheiten";
+"menu_haptic" = "Keine Haptik";
+"menu_language" = "Sprache - ";
+"menu_en" = "Englisch";
+"menu_fr" = "Französisch";
+"menu_jp" = "Japanisch";
+
+"menu_section_rate" = "Helfen sie uns aus"; /// please change this
+"menu_rate" = "Geben sie und 5 Sterne!";
+
+"menu_help_section" = "Brauchen Sie Hilfe?";
+"menu_help_label" = "Hilfe";
+"menu_suggestion_label" = "Machen sie einen Vorschlag";
+
+"menu_tcs" = "Allgemeine Geschäftsbedingungen";
+
+"menu_translations" = "Übersetzungen";
+"menu_translations_content" = "Wenn Sie Feedback zu einer falschen Übersetzung haben, um das *Densha Otaku*-Erlebnis zu verbessern, oder wenn Sie diese App in Ihrer Sprache genießen möchten, [tippen Sie hier, um einen Beitrag zu leisten!](https://github.com/jeremieb/densha- otaku-Übersetzung)";
+
+"menu_discord" = "Gemeinschaft auf Discord";
+
+"menu_show_onboarding" = "Onboarding anzeigen";
+
+"menu_footer_first" = "Gemacht mit";
+"menu_footer_second" = "in";
+"menu_footer_third" = "Amsterdam";
+
+"menu_apps_title" = "Vom selben Entwickler";
+
+"menu_section_others" = "Anderes";
+"menu_about" = "Über Densha Otaku";
+"menu_about_content" = "Sagen Sie etwas über diese App ...";
+
+"menu_developer" = "Der Entwickler";
+"menu_developer_content" = "👋 Hi, ich bin Jeremie Berduck. \n
+Tagsüber beschäftige ich mich mit mobilem Produktdesign und nachts mit Programmierung, Streaming und Podcasting, alles von Amsterdam in den Niederlanden aus, wo ich mit meiner Familie lebe. \n
+Shoobie dient zwei Zwecken: Erstens, um mit Programmierung und Softwareentwicklung zu experimentieren, und zweitens wollte ich eine einfache App, um die Gezeiten des Atlantiks zu verfolgen, wenn ich mit meiner Familie auf der Île de Ré in Frankreich unterwegs bin. \n
+Du kannst der meisten Entwicklung live auf meinem [Twitch Kanal](https://twitch.tv/monsieurbee) sehen. Du kannst mir außerdem [auf Twitter](https://twitter.com/jeremieberduck) folgen, ich würde gerne mehr über deine Erfahrungen mit Shoobie erfahren. \n
+Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie einem Freund oder hinterlasse eine Bewertung im Store!";
+
+"menu_copyright" = "Zuschreibungen";
+"menu_copyright_content" = "• Karte zur Verfügung gestellt von [© Mapbox](https://www.mapbox.com/about/maps/) und [© OpenStreetMap](http://www.openstreetmap.org/copyright). \n
+• [Verbessern Sie diese Karte](https://www.mapbox.com/map-feedback/). \n
+• Originalbild von [Tele52](https://twitter.com/vector_icons).";
+
+"menu_email_subject" = "Fragen & Feedback - Densha Otaku!";
+"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Tippen Sie Ihren Vorschlag hier ein</p>
+<p>------------------------------------<br><b>Help: </b><br>Stellen Sie Ihre Frage hier</p>";
+
+// MARK: STATUS AND MESSAGES
+"gps_signal" = "nicht genug Signal";
+"localization_restricted" = "Die Nutzung des Standorts ist eingeschränkt.";
+"localization_unknown" = "Diese App benötigt den Standort des Telefons, um richtig zu funktionieren. \nTippen Sie hier, um auf Ihre Einstellungen zuzugreifen.";
+"unexpected_error" = "Unerwarteter Fehler";
+"slow_speed" = "Du fährst nicht schnell genug.";
+
+"no_record" = "Sie haben noch keine Aufzeichnung. \nGehen Sie zurück zum Hauptbildschirm und tippen Sie einfach auf die Geschwindigkeitsanzeige, um eine hinzuzufügen.";
+"speed_record_limitation" = "Sie können nicht mehr als 10 Datensätze hinzufügen.";
+
+"speed_record_subs_required" = "Das Hinzufügen eines Geschwindigkeitsrekords erfordert ein Otaku Ultra-Abonnement, das über das Hauptmenü erhältlich ist.";
+
+
+// =========================================================================
+// MARK: INFO.PLIST
+
+"NSLocationUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, um Ihre Bewegungsgeschwindigkeit zu ermitteln.";
+"NSLocationWhenInUseUsageDescription" = "Aktivieren Sie den Ortungsdienst für die App, um Ihre Bewegungsgeschwindigkeit zu ermitteln.";
+
+
+// =========================================================================
+// MARK: SUBSCRIPTIONS
+
+"Monthly" = "Monatlich";
+"Monthly - Subscription Display Name" = "Ultra Otaku Monatlich";
+"Monthly - Description" = "Entdecken Sie das volle Potenzial von Densha Otaku";
+
+"Yearly" = "Jährlich";
+"Yearly - Subscription Display Name" = "Ultra Otaku Jährlich";
+"Yearly - Description" = "Entdecken Sie das volle Potenzial von Densha Otaku";
+
+
+// =========================================================================
+// MARK: APPSTORE Product Page
+
+"Promotional" = "Densha Otaku verfolgt deine Reise auf einer wunderschön gestalteten Karte, auf der die Zugstrecken markiert sind.";
+
+"Description" = "
+
+Densha Otaku ist eine Tachometer-App für alle Zugfanatiker.
+• Verfolge deine Reise auf einer wunderschön gestalteten Karte mit hervorgehobenen Zuglinien.
+• Behalten Sie Ihre höhere Geschwindigkeit mit Standort im Auge.
+
+=== Funktionen ===
+• Einheiten: mph / kmh
+• Kompass-Modus
+• Angepasste Karte für eine bessere Sichtbarkeit der Zuglinien
+
+";
+
+"Tags" = "zug,densha,otaku,zug geek,peedometer,geschwindigkeit,kompass,geschwindigkeits tracker,geschwindigkeits record,zug geschwindigkeit";
