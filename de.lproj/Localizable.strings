@@ -53,6 +53,7 @@
 "menu_en" = "Englisch";
 "menu_fr" = "Französisch";
 "menu_jp" = "Japanisch";
+"menu_de" = "Deutsch";
 
 "menu_section_rate" = "Helfen sie uns aus"; /// please change this
 "menu_rate" = "Geben sie und 5 Sterne!";
@@ -61,7 +62,10 @@
 "menu_help_label" = "Hilfe";
 "menu_suggestion_label" = "Machen sie einen Vorschlag";
 
-"menu_tcs" = "Allgemeine Geschäftsbedingungen";
+// >>>>>>>> ⚠️ REVIEW TRANSLATIONS <<<<<<<<<<<<<<
+"menu_tcs" = "Nutzungsbedingungen";
+"menu_privacy" = "Datenschutz";
+// >>>>>>>>>>> end review translations <<<<<<<<<<<<<<
 
 "menu_translations" = "Übersetzungen";
 "menu_translations_content" = "Wenn Sie Feedback zu einer falschen Übersetzung haben, um das *Densha Otaku*-Erlebnis zu verbessern, oder wenn Sie diese App in Ihrer Sprache genießen möchten, [tippen Sie hier, um einen Beitrag zu leisten!](https://github.com/jeremieb/densha- otaku-Übersetzung)";
@@ -92,10 +96,6 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 • [Verbessern Sie diese Karte](https://www.mapbox.com/map-feedback/). \n
 • Originalbild von [Tele52](https://twitter.com/vector_icons).";
 
-"menu_email_subject" = "Fragen & Feedback - Densha Otaku!";
-"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Tippen Sie Ihren Vorschlag hier ein</p>
-<p>------------------------------------<br><b>Help: </b><br>Stellen Sie Ihre Frage hier</p>";
-
 // MARK: STATUS AND MESSAGES
 "gps_signal" = "nicht genug Signal";
 "localization_restricted" = "Die Nutzung des Standorts ist eingeschränkt.";
@@ -107,6 +107,33 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "speed_record_limitation" = "Sie können nicht mehr als 10 Datensätze hinzufügen.";
 
 "speed_record_subs_required" = "Das Hinzufügen eines Geschwindigkeitsrekords erfordert ein Otaku Ultra-Abonnement, das über das Hauptmenü erhältlich ist.";
+
+//MARK: PRIVACY
+"privacy_title" = "Wir schätzen Deine Privatsphäre!";
+"privacy_one_subtitle" = "KEIN • Verstecktes Tracking-System";
+"privacy_one_content" = "*Densha Otaku* enthält kein Tracking-System von Drittanbietern oder anderen Anbietern. Wir wollen deine Daten nicht und haben kein Interesse daran, großen Konzernen dabei zu helfen, dich zu verfolgen, wenn du etwas so Einfaches wie einen Strandbesuch machst.";
+"privacy_two_subtitle" = "KEINE • Private Informationen erforderlich";
+"privacy_two_content" = "*Densha Otaku* fragt nicht nach persönlichen Informationen. Nutzer müssen nicht einmal persönliche Daten angeben, wenn sie ein Problem melden. Wir wollen nicht wissen, wer du bist, nicht weil es uns egal ist, sondern weil wir glauben, dass die Speicherung persönlicher Daten eine GROSSE Verantwortung ist, die umfangreiche Planung und kontinuierliche Bemühungen erfordert. \n\nWir konzentrieren uns lieber auf die Herstellung hochwertiger Produkte und wollen dies auch so beibehalten…";
+"privacy_three_subtitle" = "KEIN • Standort wird gespeichert";
+"privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben… \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
+
+// >>>>>>>> ⚠️ MISSING TRANSLATIONS <<<<<<<<<<<<<<
+
+//MARK: Feedback
+"feedback_title" = "Question & Feedback";
+"feedback_summary_header" = "Quick Summary";
+"feedback_summary_placeholder" = "Title";
+"feedback_issue" = "Issue";
+"feedback_request" = "Request";
+"feedback_email_header" = "Stay in touch (optional)";
+"feedback_email_placeholder" = "me@email.com";
+"feedback_description_header" = "Description";
+"feedback_description_placeholder" = "Please provide the details behind your problem or suggestion.";
+"feedback_button" = "Send";
+"feedback_sent" = "Thanks for your feedback";
+"feedback_error" = "Something went wrong, sorry";
+
+// >>>>>>>>>>> end missing translations <<<<<<<<<<<<<<
 
 
 // =========================================================================

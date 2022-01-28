@@ -53,15 +53,15 @@
 "menu_en" = "English";
 "menu_fr" = "French";
 "menu_jp" = "Japanese";
+"menu_de" = "German";
 
 "menu_section_rate" = "Spread the love";
 "menu_rate" = "Give it 5 stars!";
 
 "menu_help_section" = "Need help?";
-"menu_help_label" = "Help";
-"menu_suggestion_label" = "Make a suggestion";
 
-"menu_tcs" = "Terms of use & Privacy";
+"menu_tcs" = "Terms of use";
+"menu_privacy" = "Privacy";
 
 "menu_translations" = "Translations";
 "menu_translations_content" = "If you have any feedback about a wrong translation to help improve the *Densha Otaku* experience or if you want to enjoy this app in your language, [tap here to contribute!](https://github.com/jeremieb/densha-otaku-translation)";
@@ -91,10 +91,6 @@ If you like the app, support indie development and please tell a friend or leave
 • [Improve this map](https://www.mapbox.com/map-feedback/). \n
 • Original picture by [Tele52](https://twitter.com/vector_icons).";
 
-"menu_email_subject" = "Question & Feedback - Densha Otaku!";
-"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Tap your suggestion here</p>
-<p>------------------------------------<br><b>Help: </b><br>Ask your question here</p>";
-
 // MARK: STATUS AND MESSAGES
 "gps_signal" = "not enough signal";
 "localization_restricted" = "Location use is restricted.";
@@ -107,6 +103,29 @@ If you like the app, support indie development and please tell a friend or leave
 
 "speed_record_subs_required" = "Adding a speed record requires a Otaku Ultra subscription available from the main menu.";
 
+
+//MARK: PRIVACY
+"privacy_title" = "We value your privacy!";
+"privacy_one_subtitle" = "NO • Hidden tracking system";
+"privacy_one_content" = "*Densha Otaku* does not contain any third party or custom tracking system. We don’t want your data and have no interest in helping huge corporations track you as you do something as simple as going to the beach.";
+"privacy_two_subtitle" = "NO • Private information required";
+"privacy_two_content" = "*Densha Otaku* does not ask for any personal information. Users don't even need to provide personal details when reporting any issue. We don’t want to know who you are, not because we don’t care, but because we believe storing personal information is a BIG responsibility that requires extensive planning and ongoing effort. \n\nWe would rather focus is on crafting desirable products and we want to keep it this way…";
+"privacy_three_subtitle" = "NO • Location stored";
+"privacy_three_content" = "We do not store ANYTHING related to our users' activity. You are completely anonymous to us and we are not hiding any product improvement excuses to track you or your behavior with our app.\n\nTherefore, we are not selling any personal information to anyone. We can make that guarantee because we simply don’t have anything to sell… \n\nTo be fully honest, we do like hearing from you, but it’s up to you reach out and send us a message on Twitter. ☺️";
+
+//MARK: Feedback
+"feedback_title" = "Question & Feedback";
+"feedback_summary_header" = "Quick Summary";
+"feedback_summary_placeholder" = "Title";
+"feedback_issue" = "Issue";
+"feedback_request" = "Request";
+"feedback_email_header" = "Stay in touch (optional)";
+"feedback_email_placeholder" = "me@email.com";
+"feedback_description_header" = "Description";
+"feedback_description_placeholder" = "Please provide the details behind your problem or suggestion.";
+"feedback_button" = "Send";
+"feedback_sent" = "Thanks for your feedback";
+"feedback_error" = "Something went wrong, sorry";
 
 // =========================================================================
 // MARK: INFO.PLIST

@@ -5,7 +5,6 @@
   Created by Jérémie Berduck on 1/9/22.
   
 */
-
 //MARK: GENERIC
 "close" = "Fermer";
 
@@ -52,6 +51,7 @@
 "menu_en" = "Anglais";
 "menu_fr" = "Français";
 "menu_jp" = "Japonais";
+"menu_de" = "Allemand";
 
 "menu_section_rate" = "Un coup de pouce?";
 "menu_rate" = "Donnez-lui 5 étoiles!";
@@ -87,11 +87,6 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "menu_copyright" = "Attributions";
 "menu_copyright_content" = "• Map provided by Mapbox \n• Original photo by [George Howden](https://unsplash.com/photos/VhZA7q3Tyck).";
 
-"menu_email_subject" = "Suggestions & Questions - Densha Otaku!";
-"menu_email_content" = "<p>------------------------------------<br><b>Suggestion: </b><br>Écrivez votre idée ici</p>
-<p>------------------------------------<br><b>Help: </b><br>Posez votre question ici</p>";
-
-
 // MARK: STATUS AND MESSAGES
 "gps_signal" = "signal insuffisant";
 "localization_restricted" = "Utilisation de la localisation restrainte.";
@@ -126,7 +121,6 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 "feedback_button" = "Envoyer";
 "feedback_sent" = "Merci pour votre message";
 "feedback_error" = "Envoie impossible, désolé...";
-
 
 // =========================================================================
 // MARK: INFO.PLIST
