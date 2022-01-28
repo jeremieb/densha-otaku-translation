@@ -59,10 +59,10 @@
 "menu_rate" = "Geben sie und 5 Sterne!";
 
 "menu_help_section" = "Brauchen Sie Hilfe?";
-"menu_help_label" = "Hilfe";
-"menu_suggestion_label" = "Machen sie einen Vorschlag";
 
 // >>>>>>>> ⚠️ REVIEW TRANSLATIONS <<<<<<<<<<<<<<
+"menu_promocode" = "Redeem promocode";
+
 "menu_tcs" = "Nutzungsbedingungen";
 "menu_privacy" = "Datenschutz";
 // >>>>>>>>>>> end review translations <<<<<<<<<<<<<<

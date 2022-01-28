@@ -39,7 +39,6 @@
 "sub_restore_empty" = "No Purchase Found";
 "sub_restore_failed" = "Restore Failed";
 
-
 //MARK:  MENU
 "menu_title" = "Menu";
 
@@ -59,6 +58,8 @@
 "menu_rate" = "Give it 5 stars!";
 
 "menu_help_section" = "Need help?";
+
+"menu_promocode" = "Redeem promocode";
 
 "menu_tcs" = "Terms of use";
 "menu_privacy" = "Privacy";
