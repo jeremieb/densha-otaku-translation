@@ -116,6 +116,7 @@ If you like the app, support indie development and please tell a friend or leave
 
 //MARK: Feedback
 "feedback_title" = "Question & Feedback";
+"feedback_introduction" = "Do you have a question, encounter a bug or just want to ask me a new feature? Let your email address and I will do my best to answer you as soon as possible. 🙏";
 "feedback_summary_header" = "Quick Summary";
 "feedback_summary_placeholder" = "Title";
 "feedback_issue" = "Issue";

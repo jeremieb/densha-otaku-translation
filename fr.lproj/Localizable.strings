@@ -112,6 +112,7 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 //MARK: Feedback
 "feedback_title" = "Suggestions & Questions";
+"feedback_introduction" = "Pour toutes vos questions ou suggestions, laissez-moi une addresse email et je ferai mon possible pour vous répondre rapidement.\nMerci !🙏";
 "feedback_summary_header" = "En Résumé...";
 "feedback_summary_placeholder" = "Titre";
 "feedback_issue" = "Problème";
