@@ -61,7 +61,7 @@
 "menu_help_section" = "Brauchen Sie Hilfe?";
 
 // >>>>>>>> ⚠️ REVIEW TRANSLATIONS <<<<<<<<<<<<<<
-"menu_promocode" = "Redeem promocode";
+"menu_promocode" = "Aktionscode einlösen";
 
 "menu_tcs" = "Nutzungsbedingungen";
 "menu_privacy" = "Datenschutz";
@@ -117,24 +117,24 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "privacy_three_subtitle" = "KEIN • Standort wird gespeichert";
 "privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben… \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
 
-// >>>>>>>> ⚠️ MISSING TRANSLATIONS <<<<<<<<<<<<<<
+// >>>>>>>> ⚠️ NOT MISSING TRANSLATIONS <<<<<<<<<<<<<<
 
 //MARK: Feedback
-"feedback_title" = "Question & Feedback";
-"feedback_introduction" = "Do you have a question, encounter a bug or just want to ask me a new feature? Let your email address and I will do my best to answer you as soon as possible. 🙏";
-"feedback_summary_header" = "Quick Summary";
-"feedback_summary_placeholder" = "Title";
-"feedback_issue" = "Issue";
-"feedback_request" = "Request";
-"feedback_email_header" = "Stay in touch (optional)";
-"feedback_email_placeholder" = "me@email.com";
-"feedback_description_header" = "Description";
-"feedback_description_placeholder" = "Please provide the details behind your problem or suggestion.";
-"feedback_button" = "Send";
-"feedback_sent" = "Thanks for your feedback";
-"feedback_error" = "Something went wrong, sorry";
+"feedback_title" = "Frage & Feedback";
+"feedback_introduction" = "Haben Sie eine Frage, stoßen Sie auf einen Fehler oder möchten Sie mich einfach nach einer neuen Funktion fragen? Hinterlassen Sie Ihre E-Mail-Adresse und ich werde mein Bestes tun, um Ihnen so schnell wie möglich zu antworten. 🙏";
+"feedback_summary_header" = "Kurze Zusammenfassung";
+"feedback_summary_placeholder" = "Titel";
+"feedback_issue" = "Problem";
+"feedback_request" = "Wunsch/Anfrage";
+"feedback_email_header" = "In Kontakt bleiben (optional)";
+"feedback_email_placeholder" = "ich@email.de";
+"feedback_description_header" = "Beschreibung";
+"feedback_description_placeholder" = "Bitte geben Sie die Details zu Ihrem Problem oder Vorschlag an.";
+"feedback_button" = "Senden";
+"feedback_sent" = "Vielen Dank für Ihre Rückmeldung";
+"feedback_error" = "Etwas ist schief gelaufen, Entschuldigung";
 
-// >>>>>>>>>>> end missing translations <<<<<<<<<<<<<<
+// >>>>>>>>>>> end of not missing translations <<<<<<<<<<<<<<
 
 
 // =========================================================================
