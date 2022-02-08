@@ -53,7 +53,7 @@
 "menu_jp" = "Japonais";
 "menu_de" = "Allemand";
 
-"menu_section_rate" = "Un coup de pouce?";
+"menu_section_rate" = "Spread the love";
 "menu_rate" = "Donnez-lui 5 étoiles!";
 
 "menu_help_section" = "Besoin d'aide ?";
@@ -144,6 +144,9 @@ Si vous aimez cette app, aider le développement indépendant et parlez-en à vo
 
 // =========================================================================
 // MARK: APPSTORE Product Page
+
+"Title" = "Densha Otaku - Vitesse";
+"Subtitle" = "Voyage en train et vitesse";
 
 "Promotional" = "Suivez la vitesse de votre voyage en train avec Densha Otaku!";
 

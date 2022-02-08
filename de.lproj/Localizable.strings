@@ -55,17 +55,15 @@
 "menu_jp" = "Japanisch";
 "menu_de" = "Deutsch";
 
-"menu_section_rate" = "Helfen sie uns aus"; /// please change this
+"menu_section_rate" = "Helfen sie uns aus";
 "menu_rate" = "Geben sie und 5 Sterne!";
 
 "menu_help_section" = "Brauchen Sie Hilfe?";
 
-// >>>>>>>> ⚠️ REVIEW TRANSLATIONS <<<<<<<<<<<<<<
 "menu_promocode" = "Aktionscode einlösen";
 
 "menu_tcs" = "Nutzungsbedingungen";
 "menu_privacy" = "Datenschutz";
-// >>>>>>>>>>> end review translations <<<<<<<<<<<<<<
 
 "menu_translations" = "Übersetzungen";
 "menu_translations_content" = "Wenn Sie Feedback zu einer falschen Übersetzung haben, um das *Densha Otaku*-Erlebnis zu verbessern, oder wenn Sie diese App in Ihrer Sprache genießen möchten, [tippen Sie hier, um einen Beitrag zu leisten!](https://github.com/jeremieb/densha- otaku-Übersetzung)";
@@ -117,8 +115,6 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "privacy_three_subtitle" = "KEIN • Standort wird gespeichert";
 "privacy_three_content" = "Wir speichern NICHTS, was mit den Aktivitäten unserer Nutzer zu tun hat. Du bist für uns völlig anonym und wir verstecken keine Ausreden zur Produktverbesserung, um Dich oder Dein Verhalten mit unserer App zu verfolgen.\n\nDeshalb verkaufen wir keine persönlichen Informationen an andere. Diese Garantie können wir geben, weil wir einfach nichts zu verkaufen haben… \n\nUm ganz ehrlich zu sein, wir hören gerne von Dir, aber es liegt an Dir, uns eine Nachricht auf Twitter zu schicken. ☺️";
 
-// >>>>>>>> ⚠️ NOT MISSING TRANSLATIONS <<<<<<<<<<<<<<
-
 //MARK: Feedback
 "feedback_title" = "Frage & Feedback";
 "feedback_introduction" = "Haben Sie eine Frage, stoßen Sie auf einen Fehler oder möchten Sie mich einfach nach einer neuen Funktion fragen? Hinterlassen Sie Ihre E-Mail-Adresse und ich werde mein Bestes tun, um Ihnen so schnell wie möglich zu antworten. 🙏";
@@ -133,8 +129,6 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 "feedback_button" = "Senden";
 "feedback_sent" = "Vielen Dank für Ihre Rückmeldung";
 "feedback_error" = "Etwas ist schief gelaufen, Entschuldigung";
-
-// >>>>>>>>>>> end of not missing translations <<<<<<<<<<<<<<
 
 
 // =========================================================================
@@ -159,6 +153,9 @@ Wenn die die App gefällt, unterstütze die Indie-Entwicklung und empfehle sie e
 // =========================================================================
 // MARK: APPSTORE Product Page
 
+"App Title" = "Densha Otaku - Geschwindigkeit";
+"Subtitle" = "Zug Geschwindigkeit";
+
 "Promotional" = "Densha Otaku verfolgt deine Reise auf einer wunderschön gestalteten Karte, auf der die Zugstrecken markiert sind.";
 
 "Description" = "
@@ -174,4 +171,4 @@ Densha Otaku ist eine Tachometer-App für alle Zugfanatiker.
 
 ";
 
-"Tags" = "zug,densha,otaku,zug geek,peedometer,geschwindigkeit,kompass,geschwindigkeits tracker,geschwindigkeits record,zug geschwindigkeit";
+"Tags" = "zug,densha,otaku,zug geek,speedometer,geschwindigkeit,kompass,geschwindigkeits tracker,geschwindigkeits record,zug geschwindigkeit";
