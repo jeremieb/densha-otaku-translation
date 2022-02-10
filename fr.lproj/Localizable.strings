@@ -7,6 +7,9 @@
 */
 //MARK: GENERIC
 "close" = "Fermer";
+"unknown" = "Inconnu";
+"edit" = "Modifier";
+"done" = "OK";
 
 //MARK: LIST
 "list_view_title" = "Historique";

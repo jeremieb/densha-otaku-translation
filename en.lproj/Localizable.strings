@@ -8,6 +8,9 @@
 
 //MARK: GENERIC
 "close" = "Close";
+"unknown" = "Unknown";
+"edit" = "Edit";
+"done" = "Done";
 
 //MARK: LIST
 "list_view_title" = "Book keeping";
